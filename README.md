@@ -16,3 +16,13 @@
 
 ### 参考网址：
 * [优秀开发工具：推荐8个在线调试代码的网站](https://www.cnblogs.com/lhb25/archive/2012/06/25/8-useful-websites-for-testing-code-snippets.html)
+
+### 前端工具网站
+
+- [图片工具](https://www.google.com/imghp?hl=zh-CN)
+- [字体文件](https://fonts.google.com/)
+- [色彩选择工具示例有错？](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Colors/Color_picker_tool#%E5%85%B6%E4%BB%96%E5%8F%82%E8%80%83)
+- [浏览器开发工具](https://developer.mozilla.org/zh-CN/docs/Learn/Common_questions/What_are_browser_developer_tools)
+- [jsbin](https://jsbin.com/)
+- https://dabblet.com/
+
